@@ -1,2 +1,2 @@
 # Book-launch-
-![Magazine Cover](YOUR-PICTURE-NAME.jpg)
+![Magazine Cover](Sarah-picture.jpg.png)
