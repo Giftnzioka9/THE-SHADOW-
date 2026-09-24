@@ -1,0 +1,2 @@
+# THE-SHADOW-
+School Magazine
