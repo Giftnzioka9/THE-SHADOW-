@@ -1,2 +1,2 @@
 # Book-launch-
-![Magazine Cover](Sarah-picture.jpg.png)
+![Magazine Cover](Sarah-book-launch-poster.jpg.png)
